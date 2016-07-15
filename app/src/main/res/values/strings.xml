@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhoneIntercept</string>
+    <string name="bt_start">start</string>
+    <string name="name">Date:</string>
+    <string name="tel">Tel:</string>
+    <string name="clear">清空陌生号码名单</string>
+    <string name="recent">近期已拦截陌生电话</string>
+</resources>
